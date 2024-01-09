@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4iPkgWgP/eIrEueb68LTseMrdEvjeIgNsUSV1KN1AV9+GcmD2cQETJ7RCKgB5YZKrhdWTHG9sQ3yiND9YvAFA==",
+  "success": true,
+  "projectFilePath": "/Users/homer/Development/hobby/archive/EE-service/EE.BL/EE.BL.csproj",
+  "expectedPackageFiles": [
+    "/Users/homer/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

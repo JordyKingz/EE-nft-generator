@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKmaNtuem0YVPI2Dx8aL8b8xhmjScTxKgqkOHtuz/hCiNlCdZhJ3CFf95cpOg+1ISy1AWGXBts1flp9P4WF9sg==",
+  "success": true,
+  "projectFilePath": "/Users/homer/Development/hobby/archive/EE-service/ImageGenerationLocalStandalone/ImageGenerationLocalStandalone.csproj",
+  "expectedPackageFiles": [
+    "/Users/homer/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

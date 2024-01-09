@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTO2n7JSiH7NvqUhn08rjXRIy4QlOQs5ZV7/hjkUDAqz+XAaDenjvXruBIqaGNOqO2wRYiGNRzOo9nXz1sLcLA==",
+  "success": true,
+  "projectFilePath": "/Users/homer/Development/hobby/archive/EE-service/TempMetaGeneration/TempMetaGeneration.csproj",
+  "expectedPackageFiles": [
+    "/Users/homer/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

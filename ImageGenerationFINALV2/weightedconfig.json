@@ -1,0 +1,484 @@
+{
+  "Traits": [
+    {
+      "Type": 1,
+      "Properties": [
+        {
+          "Name": "Apple",
+          "Weight": 100
+        },
+        {
+          "Name": "Aqua",
+          "Weight": 70
+        },
+        {
+          "Name": "Blush",
+          "Weight": 100
+        },
+        {
+          "Name": "Bubblegum",
+          "Weight": 70
+        },
+        {
+          "Name": "Cobalt",
+          "Weight": 100
+        },
+        {
+          "Name": "Inferno",
+          "Weight": 70
+        },
+        {
+          "Name": "Peach",
+          "Weight": 100
+        },
+        {
+          "Name": "Purple Rain",
+          "Weight": 70
+        },
+        {
+          "Name": "REVISE CITY",
+          "Weight": 10
+        },
+        {
+          "Name": "SHADE TOWN",
+          "Weight": 10
+        },
+        {
+          "Name": "Sky",
+          "Weight": 100
+        },
+        {
+          "Name": "Slime",
+          "Weight": 70
+        },
+        {
+          "Name": "Smoke",
+          "Weight": 100
+        },
+        {
+          "Name": "STONE VILLAGE",
+          "Weight": 10
+        },
+        {
+          "Name": "Sunrise",
+          "Weight": 70
+        },
+        {
+          "Name": "Sunset",
+          "Weight": 70
+        },
+        {
+          "Name": "Urine Pool",
+          "Weight": 100
+        },
+        {
+          "Name": "Vag",
+          "Weight": 100
+        }
+      ]
+    },
+    {
+      "Type": 2,
+      "Properties": [
+        {
+          "Name": "REVISE",
+          "Weight": 100
+        },
+        {
+          "Name": "SHADE",
+          "Weight": 100
+        },
+        {
+          "Name": "STONE",
+          "Weight": 100
+        }
+      ]
+    },
+    {
+      "Type": 3,
+      "Properties": [
+        {
+          "Name": "Baracock",
+          "Weight": 100
+        },
+        {
+          "Name": "Bruce Bloody D",
+          "Weight": 20
+        },
+        {
+          "Name": "Bruce D",
+          "Weight": 80
+        },
+        {
+          "Name": "Cockarot God",
+          "Weight": 10
+        },
+        {
+          "Name": "Cockarot",
+          "Weight": 90
+        },
+        {
+          "Name": "Cockiri",
+          "Weight": 100
+        },
+        {
+          "Name": "Degen Dick Sanchez",
+          "Weight": 10
+        },
+        {
+          "Name": "Dick Sanchez",
+          "Weight": 90
+        },
+        {
+          "Name": "Dirty Throb Rocks",
+          "Weight": 5
+        },
+        {
+          "Name": "Edwart Scissorwang",
+          "Weight": 100
+        },
+        {
+          "Name": "Igor Ococksmouth",
+          "Weight": 100
+        },
+        {
+          "Name": "Joaquin Penis",
+          "Weight": 100
+        },
+        {
+          "Name": "Mr Peanis",
+          "Weight": 100
+        },
+        {
+          "Name": "Phallus Einstein BW",
+          "Weight": 5
+        },
+        {
+          "Name": "Phallus Einstein",
+          "Weight": 95
+        },
+        {
+          "Name": "Princest Leia",
+          "Weight": 100
+        },
+        {
+          "Name": "Sailor Boobs",
+          "Weight": 100
+        },
+        {
+          "Name": "Snoop Dick Todd",
+          "Weight": 20
+        },
+        {
+          "Name": "Snoop Dick",
+          "Weight": 80
+        },
+        {
+          "Name": "Stephen Cocking",
+          "Weight": 100
+        },
+        {
+          "Name": "Throb Rocks",
+          "Weight": 95
+        },
+        {
+          "Name": "Weapon Dicks",
+          "Weight": 100
+        }
+      ]
+    },
+    {
+      "Type": 4,
+      "Properties": [
+        {
+          "Name": "Baracock Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Bruce D Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Cockarot Haircut God",
+          "Weight": 10
+        },
+        {
+          "Name": "Cockarot Haircut",
+          "Weight": 90
+        },
+        {
+          "Name": "Degen Dick Sanchez Haircut",
+          "Weight": 20
+        },
+        {
+          "Name": "Dick Sanchez Haircut",
+          "Weight": 80
+        },
+        {
+          "Name": "Edwart Scissorwang Cap",
+          "Weight": 20
+        },
+        {
+          "Name": "Edwart Scissorwang Haircut",
+          "Weight": 80
+        },
+        {
+          "Name": "Igor Ococksmouth Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Joaquin Penis Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Cockiri Hat Green",
+          "Weight": 60
+        },
+        {
+          "Name": "Cockiri Hat Red",
+          "Weight": 29
+        },
+        {
+          "Name": "Cockiri Hat Blue",
+          "Weight": 11
+        },
+        {
+          "Name": "Mr Peanis Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Phallus Einstein Haircut BW",
+          "Weight": 5
+        },
+        {
+          "Name": "Phallus Einstein Haircut",
+          "Weight": 95
+        },
+        {
+          "Name": "Princest Leia Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Sailor Boobs Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Snoop Dick Todd Haircut",
+          "Weight": 20
+        },
+        {
+          "Name": "Snoop Dick Haircut Braids",
+          "Weight": 5
+        },
+        {
+          "Name": "Snoop Dick Haircut Perm",
+          "Weight": 75
+        },
+        {
+          "Name": "Stephen Cocking Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Throb Rocks Haircut",
+          "Weight": 100
+        },
+        {
+          "Name": "Weapon Dicks Haircut",
+          "Weight": 70
+        },
+        {
+          "Name": "Weapon Dicks Mask",
+          "Weight": 27
+        },
+        {
+          "Name": "Weapon Dicks OG",
+          "Weight": 3
+        }
+
+      ]
+
+    },
+    {
+      "Type": 5,
+      "Properties": [
+        {
+          "Name": "Baracock Army",
+          "Weight": 30
+        },
+        {
+          "Name": "Baracock Dungarees",
+          "Weight": 70
+        },
+        {
+          "Name": "Bruce D Scratches",
+          "Weight": 40
+        },
+        {
+          "Name": "Bruce D Suit",
+          "Weight": 60
+        },
+        {
+          "Name": "Cockarot Ragged",
+          "Weight": 15
+        },
+        {
+          "Name": "Cockarot Suit",
+          "Weight": 85
+        },
+        {
+          "Name": "Dick Sanchez Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Edwart Scissorwang Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Igor Ococksmouth Sky Suit",
+          "Weight": 20
+        },
+        {
+          "Name": "Igor Ococksmouth Vag Suit",
+          "Weight": 80
+        },
+        {
+          "Name": "Joaquin Penis OG Suit",
+          "Weight": 5
+        },
+        {
+          "Name": "Joaquin Penis Stroker Suit",
+          "Weight": 95
+        },
+        {
+          "Name": "Cockiri Suit Green",
+          "Weight": 60
+        },
+        {
+          "Name": "Cockiri Suit Red",
+          "Weight": 29
+        },
+        {
+          "Name": "Cockiri Suit Blue",
+          "Weight": 11
+        },
+        {
+          "Name": "Mr Peanis Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Phallus Einstein Suit BW",
+          "Weight": 5
+        },
+        {
+          "Name": "Phallus Einstein Suit",
+          "Weight": 95
+        },
+        {
+          "Name": "Princest Leia Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Sailor Boobs Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Snoop Dick Todd Suit",
+          "Weight": 12
+        },
+        {
+          "Name": "Snoop Dick Pimp Suit",
+          "Weight": 88
+        },
+        {
+          "Name": "Stephen Cocking Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Throb Rocks Suit",
+          "Weight": 100
+        },
+        {
+          "Name": "Weapon Dicks OG",
+          "Weight": 9
+        },
+        {
+          "Name": "Weapon Dicks Suit",
+          "Weight": 91
+        }
+      ]
+    },
+    {
+      "Type": 6,
+      "Properties": [
+        {
+          "Name": "Dragon Nut Original",
+          "Weight": 70
+        },
+        {
+          "Name": "Dragon Nut REVISE",
+          "Weight": 30
+        },
+        {
+          "Name": "Egg OG",
+          "Weight": 40
+        },
+        {
+          "Name": "Egg Sky",
+          "Weight": 30
+        },
+        {
+          "Name": "Egg Vag",
+          "Weight": 30
+        },
+        {
+          "Name": "Fairy Blue",
+          "Weight": 25
+        },
+        {
+          "Name": "Fairy Purple",
+          "Weight": 10
+        },
+        {
+          "Name": "Fairy Yellow",
+          "Weight": 20
+        },
+        {
+          "Name": "Fun Guy",
+          "Weight": 8
+        },
+        {
+          "Name": "Lightsaber Blue",
+          "Weight": 70
+        },
+        {
+          "Name": "Lightsaber Red",
+          "Weight": 70
+        },
+        {
+          "Name": "Mr Bum Crumbs",
+          "Weight": 8
+        },
+        {
+          "Name": "Shade Poo",
+          "Weight": 40
+        },
+        {
+          "Name": "Smallmon",
+          "Weight": 8
+        },
+        {
+          "Name": "Snolaf",
+          "Weight": 8
+        },
+        {
+          "Name": "Teddy Bear Bean",
+          "Weight": 60
+        },
+        {
+          "Name": "Teddy Bear Stone",
+          "Weight": 35
+        }
+      ]
+    }
+  ]
+}

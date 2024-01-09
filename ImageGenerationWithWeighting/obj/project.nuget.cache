@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sF06/XYmvAwOM5LuWKty5sJYfHCdoPLXFuZEtarSlfO95M1g/zRr6vZoSPVVl0w7Jlszr97SYQNoXyOPzFeETg==",
+  "success": true,
+  "projectFilePath": "/Users/homer/Development/hobby/archive/EE-service/ImageGenerationWithWeighting/ImageGenerationWithWeighting.csproj",
+  "expectedPackageFiles": [
+    "/Users/homer/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/homer/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512",
+    "/Users/homer/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
